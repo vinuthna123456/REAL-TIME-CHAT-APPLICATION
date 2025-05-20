@@ -33,4 +33,4 @@ In summary, a real-time chat application is a complex system that combines robus
 
 ##OUTPUT
 
-"C:\Users\vinut\OneDrive\Pictures\Screenshots\Screenshot 2025-05-19 165827.png"
+"C:\Users\vinut\OneDrive\Screenshot 2025-05-19 165827.png"
